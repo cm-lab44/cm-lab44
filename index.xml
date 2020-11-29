@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website Name</title>
+    <title>Lab-44</title>
     <link>https://example.com/</link>
-    <description>Recent content on Website Name</description>
+    <description>Recent content on Lab-44</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 22 Nov 2020 16:33:13 +0100</lastBuildDate>
@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://example.com/my-first-post/</link>
+      <title>Welcome!</title>
+      <link>https://example.com/welcome/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>https://example.com/my-first-post/</guid>
-      <description>wably</description>
+      <guid>https://example.com/welcome/</guid>
+      <description>Welcome to lab-44 it makes lab-43 look like lab-27.</description>
     </item>
     
   </channel>
