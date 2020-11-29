@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab-44</title>
-    <link>https://example.com/</link>
+    <link>https://cm-lab44.github.io/</link>
     <description>Recent content on Lab-44</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 22 Nov 2020 16:33:13 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cm-lab44.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://example.com/my-first-post/</link>
+      <link>https://cm-lab44.github.io/my-first-post/</link>
       <pubDate>Sun, 22 Nov 2020 16:33:13 +0100</pubDate>
       
-      <guid>https://example.com/my-first-post/</guid>
+      <guid>https://cm-lab44.github.io/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome!</title>
-      <link>https://example.com/welcome/</link>
+      <link>https://cm-lab44.github.io/welcome/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>https://example.com/welcome/</guid>
+      <guid>https://cm-lab44.github.io/welcome/</guid>
       <description>Welcome to lab-44 it makes lab-43 look like lab-27.</description>
     </item>
     
